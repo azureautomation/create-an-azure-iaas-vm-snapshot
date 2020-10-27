@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Bertram",
+    "ContentSize": 3923,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-an-azure-iaas-vm-snapshot/master/Create-AzureVMSnapshot.ps1",
+    "DownloadCount": 3022,
+    "Id": "Create-an-Azure-IaaS-VM-04e09d68",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 70,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2014-7-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is a script that I use to take snapshots on my Azure IaaS VMs \u00a0This script takes a bit to run due to all of the things that have to be done to get a BLOB copy of an Azure VM but it works great! \u00a0I've tested this on a few of my Azure VMs with no problems.=====================",
+    "Title": "Create an Azure IaaS VM Snapshot",
+    "UpdatedDate": "2014-7-7T00:00:00",
+    "Url": "https://github.com/azureautomation/create-an-azure-iaas-vm-snapshot",
+    "UserTags": "Microsoft Azure"
+}
